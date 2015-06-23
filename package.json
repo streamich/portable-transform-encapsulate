@@ -1,0 +1,14 @@
+{
+  "name": "portable-transform-encapsulate",
+  "version": "0.0.1",
+  "description": "portable.js transform to wrap module in an anonymous function",
+  "main": "index.js",
+  "keywords": ["portable", "portable.js", "transform", "wrap", "lambda", "anynymous", "encapsulate"],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/streamich/portable-transform-encapsulate.git"
+  },
+  "license": "Unlicense",
+  "dependencies": {},
+  "devDependencies": {}
+}
